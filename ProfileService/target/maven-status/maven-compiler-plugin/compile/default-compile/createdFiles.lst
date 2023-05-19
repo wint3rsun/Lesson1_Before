@@ -9,5 +9,6 @@ com/crashcourse/L8/ProfileData/Entity/AuthRecord.class
 com/crashcourse/L8/ProfileData/ProfileDataApplication.class
 com/crashcourse/L8/ProfileData/dto/ProfileRequestDto.class
 com/crashcourse/L8/ProfileData/config/SecurityConfig.class
+.DS_Store
 com/crashcourse/L8/ProfileData/config/ProfileRunner.class
 com/crashcourse/L8/ProfileData/dto/AuthRecordRequestDto.class
