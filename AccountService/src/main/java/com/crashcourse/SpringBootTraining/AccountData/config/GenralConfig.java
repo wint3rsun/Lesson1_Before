@@ -1,7 +1,7 @@
-package com.crashcourse.L8.AccountData.config;
+package com.crashcourse.SpringBootTraining.AccountData.config;
 
 
-import com.crashcourse.L8.AccountData.dto.AccountResponseDto;
+import com.crashcourse.SpringBootTraining.AccountData.dto.AccountResponseDto;
 import io.swagger.v3.oas.models.OpenAPI;
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package com.crashcourse.L8.AccountData.Entity;
+package com.crashcourse.SpringBootTraining.AccountData.Entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

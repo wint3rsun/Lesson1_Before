@@ -1,8 +1,8 @@
-package com.crashcourse.L8.AccountData;
+package com.crashcourse.SpringBootTraining.AccountData;
 
-import com.crashcourse.L8.AccountData.Entity.AuthRecord;
-import com.crashcourse.L8.AccountData.Entity.Account;
-import com.crashcourse.L8.AccountData.service.AccountService;
+import com.crashcourse.SpringBootTraining.AccountData.Entity.AuthRecord;
+import com.crashcourse.SpringBootTraining.AccountData.Entity.Account;
+import com.crashcourse.SpringBootTraining.AccountData.service.AccountService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

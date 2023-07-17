@@ -1,7 +1,7 @@
-package com.crashcourse.L8.AccountData.controller;
+package com.crashcourse.SpringBootTraining.AccountData.controller;
 
-import com.crashcourse.L8.AccountData.Entity.Account;
-import com.crashcourse.L8.AccountData.service.AccountService;
+import com.crashcourse.SpringBootTraining.AccountData.Entity.Account;
+import com.crashcourse.SpringBootTraining.AccountData.service.AccountService;
 import io.swagger.v3.oas.annotations.Parameter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

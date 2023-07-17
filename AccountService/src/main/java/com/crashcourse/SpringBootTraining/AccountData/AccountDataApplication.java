@@ -1,4 +1,4 @@
-package com.crashcourse.L8.AccountData;
+package com.crashcourse.SpringBootTraining.AccountData;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

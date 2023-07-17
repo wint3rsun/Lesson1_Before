@@ -1,8 +1,8 @@
-package com.crashcourse.L8.AccountData.config;
+package com.crashcourse.SpringBootTraining.AccountData.config;
 
-import com.crashcourse.L8.AccountData.Entity.AuthRecord;
-import com.crashcourse.L8.AccountData.Entity.Account;
-import com.crashcourse.L8.AccountData.repository.AccountRepository;
+import com.crashcourse.SpringBootTraining.AccountData.Entity.AuthRecord;
+import com.crashcourse.SpringBootTraining.AccountData.Entity.Account;
+import com.crashcourse.SpringBootTraining.AccountData.repository.AccountRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;

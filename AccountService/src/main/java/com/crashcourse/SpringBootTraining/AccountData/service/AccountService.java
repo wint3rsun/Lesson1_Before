@@ -1,7 +1,7 @@
-package com.crashcourse.L8.AccountData.service;
+package com.crashcourse.SpringBootTraining.AccountData.service;
 
 
-import com.crashcourse.L8.AccountData.Entity.Account;
+import com.crashcourse.SpringBootTraining.AccountData.Entity.Account;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

@@ -1,6 +1,6 @@
-package com.crashcourse.L8.AccountData.repository;
+package com.crashcourse.SpringBootTraining.AccountData.repository;
 
-import com.crashcourse.L8.AccountData.Entity.Account;
+import com.crashcourse.SpringBootTraining.AccountData.Entity.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.crashcourse.L8.AccountData.config;
+package com.crashcourse.SpringBootTraining.AccountData.config;
 
 
 import org.springframework.context.annotation.Configuration;
